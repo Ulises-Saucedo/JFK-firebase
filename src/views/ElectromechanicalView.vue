@@ -1,10 +1,11 @@
+<script setup>
+    import HeaderLayout from '../layouts/HeaderLayout.vue';
+</script>
+
 <template>
+    <HeaderLayout></HeaderLayout>
     <h1>ELECTROMECANICA</h1>
 </template>
-
-<script setup>
-
-</script>
 
 <style scoped>
 

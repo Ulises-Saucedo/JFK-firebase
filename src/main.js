@@ -15,7 +15,8 @@ import {
     BiArchive,
     BiCamera,
     BiBank,
-    BiEnvelopePaper
+    BiEnvelopePaper,
+    MdFolderspecialOutlined
 } from "oh-vue-icons/icons"
 
 addIcons(
@@ -30,7 +31,8 @@ addIcons(
     BiArchive,
     BiCamera,
     BiBank,
-    BiEnvelopePaper
+    BiEnvelopePaper,
+    MdFolderspecialOutlined
 )
 
 createApp(App).use(router).component("v-icon", OhVueIcon).mount('#app')
