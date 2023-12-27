@@ -2,6 +2,8 @@ import { createApp } from 'vue'
 import './index.css'
 import App from './App.vue'
 import router from './router/router.js'
+import VueKinesis from "vue-kinesis"
+import VueRoughNotation from 'vue-rough-notation'
 import { OhVueIcon, addIcons } from "oh-vue-icons"
 import { 
     CoHome, 
@@ -35,4 +37,4 @@ addIcons(
     MdFolderspecialOutlined
 )
 
-createApp(App).use(router).component("v-icon", OhVueIcon).mount('#app')
+createApp(App).use(router).use(VueKinesis).use(VueRoughNotation).component("v-icon", OhVueIcon).mount('#app')

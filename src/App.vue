@@ -6,8 +6,3 @@
     <router-view />
     <FooterComponent />
 </template>
-
-
-<style scoped>
-
-</style>
