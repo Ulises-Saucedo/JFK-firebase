@@ -1,5 +1,5 @@
 <template>
-    <section class="my-24 flex justify-center flex-col max-w-[900px] mx-auto">
+    <section class="my-24 flex justify-center flex-col max-w-[900px] mx-auto p-5">
         <h1 class="text-center text-4xl font-bold">
             <RoughNotation type="highlight" :is-show="true" color="#FFD54F">
                 Inscripción de ingresantes 2024

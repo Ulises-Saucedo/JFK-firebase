@@ -1,10 +1,11 @@
 <script setup>
-    import HeaderLayout from '../layouts/HeaderLayout.vue';
+    import HeaderLayout from '../layouts/HeaderLayout.vue'
+    import Maps from '../components/contact/Maps.vue'
 </script>
 
 <template>
     <HeaderLayout></HeaderLayout>
-    <h1>CONTACTO</h1>
+    <Maps></Maps>
 </template>
 
 <style scoped>

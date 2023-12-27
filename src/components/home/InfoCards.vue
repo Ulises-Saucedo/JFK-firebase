@@ -20,7 +20,7 @@
 </script>
 
 <template>
-    <section class="w-full my-64">
+    <section class="w-full my-64 p-5">
         <h1 class="text-center font-bold text-[40px] mb-[40px]">
             <RoughNotation type="highlight" :is-show="true" color="#FFD54F">
                 Especialidades
