@@ -39,7 +39,7 @@
         target="_blank"
         rel="noreferrer"
         >
-            <img :src="image.thumbnailURL" :alt="image.alt" class="w-[350px] h-[250px] gap-5"/>
+            <img :src="image.thumbnailURL" :alt="image.alt" class="w-[350px] h-[250px] gap-5 rounded shadow"/>
         </a>
     </div>
 </template>
