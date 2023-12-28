@@ -9,9 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "flowbite": "^2.2.1",
-    "flowbite-vue": "^0.1.2",
     "oh-vue-icons": "^1.0.0-rc3",
+    "photoswipe": "^5.4.3",
     "vue": "^3.3.11",
     "vue-kinesis": "^2.0.5",
     "vue-rough-notation": "^1.0.4",
