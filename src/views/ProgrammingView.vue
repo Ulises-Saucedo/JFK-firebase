@@ -1,10 +1,11 @@
 <script setup>
-    import HeaderLayout from '../layouts/HeaderLayout.vue';
+    import HeaderLayout from '../layouts/HeaderLayout.vue'
+    import MainContent from '../components/programming/MainContent.vue'
 </script>
 
 <template>
     <HeaderLayout></HeaderLayout>
-    <h1>PROGRAMACION</h1>
+    <MainContent></MainContent>
 </template>
 
 <style scoped>

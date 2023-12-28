@@ -1,12 +1,9 @@
 <script setup>
-    import HeaderLayout from '../layouts/HeaderLayout.vue';
+    import HeaderLayout from '../layouts/HeaderLayout.vue'
+    import MainContent from '../components/computing/MainContent.vue';
 </script>
 
 <template>
     <HeaderLayout></HeaderLayout>
-    <h1>INFORMATICA</h1>
+    <MainContent></MainContent>
 </template>
-
-<style scoped>
-
-</style>
