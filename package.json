@@ -12,6 +12,7 @@
     "firebase": "^10.7.1",
     "oh-vue-icons": "^1.0.0-rc3",
     "photoswipe": "^5.4.3",
+    "pinia": "^2.1.7",
     "vue": "^3.3.11",
     "vue-kinesis": "^2.0.5",
     "vue-rough-notation": "^1.0.4",
